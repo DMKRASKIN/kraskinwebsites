@@ -551,6 +551,7 @@ strong {
     font-size: 22px;
   }
 
+
   h4 {
     font-size: 20px;
   }
@@ -575,11 +576,24 @@ strong {
   }
 
   .offcanvas-icon {
+    font-size: 10px;
     margin-left: 10px;
   }
 
   .countdown-item {
     margin: 10px;
   }
+
+  .offcanvas nav ul li {
+    font-size: 10px;
+  }
+  
+ 
+  
+
+ 
+
+  
+ 
 }
 
