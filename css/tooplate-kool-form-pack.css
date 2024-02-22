@@ -570,7 +570,7 @@ strong {
   }
 }
 
-@media screen and (max-width: 531px) {
+@media screen and (max-width: 480px) {
   .site-header .social-icon {
     display: none !important;
   }
