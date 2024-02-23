@@ -156,34 +156,13 @@ strong {
 /*---------------------------------------
   CUSTOM BUTTON               
 -----------------------------------------*/
-.custom-btn {
-  
-}
 
-.custom-btn:hover {
- 
-}
-
-.custom-border-btn {
- color: red;
-}
-
-.custom-border-btn:hover {
-  
-}
-
-.custom-btn-bg-white {
- 
-}
 
 .custom-btn-group .link {
   color: var(--white-color);
   font-weight: var(--font-weight-medium);
 }
 
-.custom-btn-group .link:hover {
-  
-}
 
 
 /*---------------------------------------
@@ -572,7 +551,7 @@ strong {
 
 @media screen and (max-width: 480px) {
   .site-header .social-icon {
-    display: none !important;
+    
   }
 
   .offcanvas-icon {
@@ -587,13 +566,4 @@ strong {
   .offcanvas nav ul li {
     font-size: 10px;
   }
-  
- 
-  
-
- 
-
-  
- 
 }
-
